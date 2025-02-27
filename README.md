@@ -1,6 +1,6 @@
 # Repositório criado para documentações dos códigos feitos na aula de Compiladores.
 
-#EXECUTOR ------
+############# EXECUTOR #############
 
 Para compilar e executar usando  GCC, use:
 
